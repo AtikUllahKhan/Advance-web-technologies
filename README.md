@@ -21,7 +21,7 @@ i.After successful admin login, admins can:
 ii.Add, update, and delete customer accounts.
 iii.View customer details
 
-3. Vendor Management
+3.Vendor Management
 
 i.After successful admin login, admins can:
 ii.Add, update, and delete Vendor accounts.
